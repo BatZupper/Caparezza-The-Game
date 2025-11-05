@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 12320b250b532e7468a508707a99036a
+  - enabled: 1
+    path: Assets/Scenes/Puglia.unity
+    guid: 76511fcdb5617d4449e8aebdc74a0ad1
+  - enabled: 1
+    path: Assets/Scenes/Puglia main.unity
+    guid: b4b8e25beba7f0e44a6aa978baabf291
+  - enabled: 1
+    path: Assets/Scenes/Capa Quiz.unity
+    guid: fdf87080a238fdf438ee251fc5366209
+  - enabled: 1
+    path: Assets/Scenes/Museum.unity
+    guid: 1220f81418f7dad4191f05235872e755
+  - enabled: 1
+    path: Assets/Scenes/CTD.unity
+    guid: 82db183a43396ca489d3e6319cab333c
+  - enabled: 1
+    path: Assets/Scenes/ace.unity
+    guid: 7f941a66b926e7c48b3f99a0b98c25c2
+  - enabled: 0
+    path: Assets/Scenes/afml.unity
+    guid: 765641112f81db842b6f3b331adc68f0
+  - enabled: 1
+    path: Assets/Scenes/TestArea.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Test Material.unity
+    guid: 830f68d4afde3a74b97102f718f00b0b
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
